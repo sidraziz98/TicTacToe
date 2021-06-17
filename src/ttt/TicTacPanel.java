@@ -123,7 +123,7 @@ public class TicTacPanel extends JPanel {
 
         setVisible(true);
         //to allow the gui to work while the bg coding does its work
-        Timer timer2 = new Timer(1500, new ActionListener() {
+        Timer timer2 = new Timer(2000, new ActionListener() {
             public void actionPerformed(ActionEvent f) {
                 w = true;
                 repaint();
