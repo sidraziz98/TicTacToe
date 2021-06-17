@@ -5,7 +5,10 @@
  */
  
 package ttt;
-
+/**
+ *
+ * @author Sidra Aziz 14809
+ */
 import java.util.*;
 import javax.swing.*;
 import java.awt.*;

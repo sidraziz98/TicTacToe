@@ -7,7 +7,7 @@ package ttt;
 
 /**
  *
- * @author zohai
+ * @author Sidra Aziz 14809
  */
 import java.awt.*;
 import java.awt.event.*;

@@ -7,7 +7,7 @@ package ttt;
 
 /**
  *
- * @author zohai
+ * @author Sidra Aziz 14809
  */
 import java.util.Scanner;
 //creates an AI agent using AlphaBeta Algorithm

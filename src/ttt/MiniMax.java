@@ -7,7 +7,7 @@ package ttt;
 
 /**
  *
- * @author zohai
+ * @author Sidra Aziz 14809
  */
 
 //creates an AI agent using MiniMax Algorithm 

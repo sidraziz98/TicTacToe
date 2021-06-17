@@ -7,7 +7,7 @@ package ttt;
 import java.util.*;
 /**
  *
- * @author zohai
+ * @author Sidra Aziz 14809
  */
 //this class makes the two AI agents compete with eachohter
 //the result will always be draw becuase the agents use a similar technique to search for the path to be taken
